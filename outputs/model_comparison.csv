@@ -1,0 +1,6 @@
+model_group,model,category,sentiment
+Advanced (LSTM/CNN/BERT),BiLSTM,,0.644
+Advanced (LSTM/CNN/BERT),DistilBERT,,0.6239
+Advanced (LSTM/CNN/BERT),TextCNN,,0.6448
+LLM (Zero-Shot),Ollama-LLaMA3.2,,0.5743
+LLM (Zero-Shot),ZeroShot-BART,0.299,0.5505

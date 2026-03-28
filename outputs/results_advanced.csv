@@ -1,0 +1,4 @@
+model,task,f1_macro
+BiLSTM,sentiment,0.6440005578140502
+TextCNN,sentiment,0.6448122882821883
+DistilBERT,sentiment,0.6238994324279344

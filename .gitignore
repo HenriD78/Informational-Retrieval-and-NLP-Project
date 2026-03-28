@@ -12,4 +12,15 @@ pages/__pycache__/
 # Project specific
 data/
 logs/
-models/
+models/bilstm_sentiment.pt
+models/textcnn_sentiment.pt
+models/nn_embed_*.pt
+models/pretrained_*.pt
+models/distilbert_best/
+models/distilbert_sentiment/
+models/lda_model*
+models/lda_dictionary
+models/word2vec.model
+models/glove.6B.*
+
+Project_2.pdfoutputs/glove.6B*

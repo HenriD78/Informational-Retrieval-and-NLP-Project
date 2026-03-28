@@ -1,0 +1,4 @@
+model,task,accuracy,f1_macro
+ZeroShot-BART,sentiment,0.75,0.5504512726903965
+ZeroShot-BART,category,0.395,0.29902915495335686
+Ollama-LLaMA3.2,sentiment,0.68,0.5743464052287582
