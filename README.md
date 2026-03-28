@@ -2,6 +2,8 @@
 
 This project is a web application that uses natural language processing to analyze and process text data.
 
+link to the [video](https://youtu.be/6hUcVQAINdU) presenting the project :
+
 ## Installation
 
 1. Clone the repository:

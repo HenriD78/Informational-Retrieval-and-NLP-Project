@@ -23,4 +23,5 @@ models/lda_dictionary
 models/word2vec.model
 models/glove.6B.*
 
-Project_2.pdfoutputs/glove.6B*
+Project_2.pdf
+outputs/glove.6B*
